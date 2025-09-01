@@ -1,0 +1,23 @@
+CommonReviews,Count,AverageRating,AverageSentimentScore,AverageSentimentCategory,AverageSentimentBucket
+"Good quality, but could be cheaper.",122,3.3524590163934427,0.2382,Mixed Negative,Mildy Positive
+The quality is top-notch.,121,4.31404958677686,0.0,Positive,Mildy Positive
+Customer support was very helpful.,114,4.315789473684211,0.6997,Positive,Positive
+Not worth the money.,113,2.495575221238938,-0.1695,Mixed Positive,Mildly Negative
+"Great purchase, very satisfied.",105,4.238095238095238,0.8016,Positive,Positive
+Five stars for the quick delivery.,104,4.336538461538462,0.0,Positive,Mildy Positive
+"I love this product, will buy again!",99,4.313131313131313,0.6695999999999999,Positive,Positive
+"Average experience, nothing special.",91,2.6263736263736264,-0.3089,Mixed Positive,Mildly Negative
+Shipping was fast and the item was well-packaged.,88,4.329545454545454,0.0,Positive,Mildy Positive
+"The product is okay, but the instructions were unclear.",73,2.8767123287671232,-0.2617,Mixed Positive,Mildly Negative
+The build quality is impressive.,56,4.875,0.5106,Positive,Positive
+"Excellent product, highly recommend!",54,4.944444444444445,0.7772999999999999,Positive,Positive
+Exceeded my expectations!,49,4.877551020408164,0.0,Positive,Mildy Positive
+Product did not meet my expectations.,38,1.6578947368421053,0.0,Negative,Mildy Positive
+The product arrived late.,38,1.7105263157894737,0.0,Negative,Mildy Positive
+Amazing value for the price.,36,5.0,0.7351,Positive,Positive
+Disappointed with the performance.,22,1.8181818181818181,-0.47670000000000007,Negative,Mildly Negative
+I had a bad experience with this product.,9,1.0,-0.5423,Negative,Negative
+The product stopped working after a month.,9,1.0,-0.22630000000000003,Negative,Mildly Negative
+"Terrible customer service, would not buy again.",9,1.0,-0.4767,Negative,Mildly Negative
+"Not satisfied, the product broke after a week.",9,1.0,-0.6288,Negative,Negative
+The color was different from what was shown.,4,1.0,0.0,Negative,Mildy Positive
