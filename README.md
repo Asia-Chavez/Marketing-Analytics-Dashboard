@@ -23,7 +23,8 @@ This project simulates a real-world marketing analytics scenario by analyzing cu
 - Executive Summary: Developed a concise PowerPoint presentation summarizing findings and business implications<br>
 
 # Sample Visuals
-<img width="1290" height="893" alt="image" src="https://github.com/user-attachments/assets/68830a9d-a5db-4670-b503-432a1333b6d5" />
+<img width="1254" height="874" alt="image" src="https://github.com/user-attachments/assets/4034bd28-9332-49fa-8c76-65f9c180b245" />
+
 
 # Next Steps / Improvements
 Explore deeper NLP techniques beyond VADER (e.g. topic modeling)
